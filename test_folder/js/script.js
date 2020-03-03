@@ -9,3 +9,7 @@
 // console.log(obj.x) // и чему же сейчас равен obj.x 
 'use strict';
 
+
+
+let bruh = 5;
+console.log(bruh + 10 * "15");
